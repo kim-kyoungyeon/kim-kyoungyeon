@@ -45,5 +45,4 @@
 <img src="https://img.shields.io/badge/ReactApp-09D3AC?style=for-the-badge&logo=ReactApp&logoColor=blue">
 <img src="https://img.shields.io/badge/StyledComponent-DB7093?style=for-the-badge&logo=styledComponent&logoColor=pink">
 
-
   </div>
