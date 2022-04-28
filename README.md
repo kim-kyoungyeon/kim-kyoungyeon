@@ -30,16 +30,22 @@
  <div align=center> 
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VSCode&logoColor=navy">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=VSCode&logoColor=black">
-<img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=NodeJS&logoColor=green">
+ 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=yellow">
 <img src="https://img.shields.io/badge/GitBook-3884FF?style=for-the-badge&logo=GitBook&logoColor=black">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=skyblue">
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=AWS&logoColor=black">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+ 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+ <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=blue">
-<img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=NodeJS&logoColor=green">
+ 
 <img src="https://img.shields.io/badge/ReactApp-09D3AC?style=for-the-badge&logo=ReactApp&logoColor=blue">
 <img src="https://img.shields.io/badge/StyledComponent-DB7093?style=for-the-badge&logo=styledComponent&logoColor=pink">
 
