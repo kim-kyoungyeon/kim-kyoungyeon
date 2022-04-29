@@ -10,8 +10,8 @@ Nice ✌ Meet 깐부 ✋  <br>
 💡 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=ww3ysq)](https://velog.io/@ww3ysq)
 
 
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ww3ysq)](https://velog-readme-stats.vercel.app/api/redirect?name=ww3ysq)
  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ww3ysq&tag=project)](https://velog-readme-stats.vercel.app/api/redirect?name=ww3ysq&tag=github)
 <br>
 
 -------
