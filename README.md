@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=FE%20Developer&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Kim%20Kyoungyeon&descAlignY=70">
+	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=FE/BE%20Developer&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Kim%20Kyoungyeon&descAlignY=70">
 </div>
 
 Nice ✌ Meet 깐부 ✋  <br>
