@@ -11,9 +11,9 @@ Nice ✌ Meet 깐부 ✋  <br>
 <br/>
 
 ### 😱 Immediate Goal :SQLD ...!
+- Steady Plan : Velog는 매주 1회 (Min) , 1 day 1 commit (Allnight)
 - Current Plan on  : git에 Jekyll Themes 적용
-- Permenent Plan : 1 day 1 commit (밤을 새서라도 올릴 예정)
-- Algorithm : lv1 이라도 꼭 매일 풉니다
+- Algorithm : lv1 이라도 , 코플릿이라도 꼭 매일 풉니다
 
 <br/>
 
