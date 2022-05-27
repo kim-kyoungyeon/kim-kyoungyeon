@@ -10,6 +10,10 @@ Nice ✌ Meet 깐부 ✋  <br>
 💡 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=ww3ysq)](https://velog.io/@ww3ysq)
 <br/>
 
+### 😱 Immediate Goal :SQLD ...!
+- Current Plan on  : git에 Jekyll Themes 적용
+- Permenent Plan : 1 day 1 commit (밤을 새서라도 올릴 예정)
+- Algorithm : lv1 이라도 꼭 매일 풉니다
 
 <br/>
 
